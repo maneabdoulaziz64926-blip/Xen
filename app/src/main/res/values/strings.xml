@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hotspot Quota</string>
+    <string name="hotspot_active">Partage Wi-Fi Activé</string>
+    <string name="hotspot_inactive">Partage Wi-Fi Inactif</string>
+    <string name="devices_managed_format">Appareils affiliés (%1$d/5 max)</string>
+    <string name="max_devices_reached">Capacité maximale de 5 appareils atteinte</string>
+    <string name="quota_reached_expelled">Quota atteint — Client expulsé et reconnexion interdite</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="light_mode">Mode Clair</string>
+</resources>

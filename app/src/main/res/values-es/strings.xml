@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hotspot Quota</string>
+    <string name="hotspot_active">Punto de acceso activo</string>
+    <string name="hotspot_inactive">Punto de acceso inactivo</string>
+    <string name="devices_managed_format">Dispositivos gestionados (%1$d/5 máx.)</string>
+    <string name="max_devices_reached">Capacidad máxima de 5 dispositivos alcanzada</string>
+    <string name="quota_reached_expelled">Cuota alcanzada — Cliente expulsado y reconexión impedida</string>
+    <string name="dark_mode">Modo Oscuro</string>
+    <string name="light_mode">Modo Claro</string>
+</resources>

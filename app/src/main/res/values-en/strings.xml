@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hotspot Quota</string>
+    <string name="hotspot_active">Hotspot Active</string>
+    <string name="hotspot_inactive">Hotspot Inactive</string>
+    <string name="devices_managed_format">Managed Devices (%1$d/5 max)</string>
+    <string name="max_devices_reached">Maximum capacity of 5 devices reached</string>
+    <string name="quota_reached_expelled">Quota reached — Client expelled & reconnection prevented</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+</resources>
